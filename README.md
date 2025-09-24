@@ -1,1 +1,1 @@
-# atividade-11
+Atividade referente a alocação dinâmica de memoria
